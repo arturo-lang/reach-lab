@@ -30,7 +30,7 @@ Or... what tools/editors/package managers we do<br>(or could) support for **[Art
 
 ## 🌀 Code Counters
 
-- [x] [**cloc**](https://github.com/AlDanial/cloc/releases/tag/v2.0)
+- [x] [**cloc**](https://github.com/AlDanial/cloc/releases/tag/v2.02)
 - [x] [**scc**](https://github.com/boyter/scc/releases/tag/v3.3.0)
 - [x] [**tokei**](https://github.com/XAMPPRocky/tokei/releases/tag/v13.0.0-alpha.2)
 
