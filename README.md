@@ -36,6 +36,7 @@ Or... what tools/editors/package managers we do<br>(or could) support for **[Art
 | **Windows** | Chocolatey | 🔴 | — | |
 | **Windows** | Scoop | 🔴 | — | |
 | **Windows** | winget | 🔴 | — | |
+| **Docker** | — | 🟠 | — | |
 
 ### Legend
 
