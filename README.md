@@ -8,25 +8,46 @@ Or... what tools/editors/package managers we do<br>(or could) support for **[Art
 --------------
  
 <!--ts-->
-   * [Editors / Syntax Highlighting](#-editor--syntax-highlighting)
    * [Package Managers](#-package-managers)
+   * [Editors / Syntax Highlighting](#-editor--syntax-highlighting)
    * [Code Counters](#-code-counters)
 <!--te-->
 
 --------------
+
+## 📦 Package Managers & Distribution
+
+| Platform | Package Manager | Status | Install Command | Notes |
+|---|---|:---:|---|---|
+| **macOS** | MacPorts | 🔴 | — | |
+| **macOS/Linux** | [Homebrew](https://formulae.brew.sh/formula/arturo) | 🟢 | `brew install arturo` | ⚠️ forces mini version (should fix!) |
+| **Arch Linux** | AUR | 🔴 | — | |
+| **Arch Linux** | pacman | 🔴 | — | |
+| **Debian/Ubuntu** | APT | 🔴 | — | |
+| **Fedora/RHEL** | DNF/YUM | 🔴 | — | |
+| **OpenSUSE** | Zypper | 🔴 | — | |
+| **Alpine** | APK | 🔴 | — | |
+| **Void Linux** | XBPS | 🔴 | — | |
+| **NixOS** | Nix | 🔴 | — | |
+| **Gentoo** | Portage | 🔴 | — | |
+| **FreeBSD** | pkg | 🔴 | — | |
+| **NetBSD** | pkgsrc | 🔴 | — | |
+| **OpenBSD** | pkg_add | 🔴 | — | |
+| **Windows** | Chocolatey | 🔴 | — | |
+| **Windows** | Scoop | 🔴 | — | |
+| **Windows** | winget | 🔴 | — | |
+
+### Legend
+
+- 🟢 Available
+- 🟠 Not updated
+- 🔴 Not Available
 
 ## 💻 Editor / Syntax Highlighting
 
 - [x] [**VSCode**](https://marketplace.visualstudio.com/items?itemName=drkameleon.arturo) - Windows / macOS / Linux
 - [x] [**SublimeText**](https://packagecontrol.io/packages/Arturo%20Programming%20Language) - Windows / macOS / Linux
 - [x] [**Vim/NeoVim**](https://github.com/xigoi/vim-arturo) - Windows / macOS / Linux
-
-
-## 📦 Package Managers
-
-- [x] [**Homebrew**](https://formulae.brew.sh/formula/arturo) - macOS / Linux
-- [ ] **Ubuntu Packages** - Linux
-- [ ] **Chocolatey** - Windows
 
 ## 🌀 Code Counters
 
