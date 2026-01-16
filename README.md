@@ -34,10 +34,10 @@ Or... what tools/editors/package managers we do<br>(or could) support for **[Art
 | **NetBSD**        | pkgsrc                                               | 🔴    |          | —                                                                                                  |                                                             |
 | **OpenBSD**       | pkg_add                                              | 🔴    |          | —                                                                                                  |                                                             |
 | **Windows**       | Chocolatey                                           | 🔴    |          | —                                                                                                  |                                                             |
-| **Windows**       | [Github](https://github.com/arturo-lang/scoop-bucket)| 🟢    | 0.10.0   | `scoop bucket add arturo https://github.com/arturo-lang/scoop-bucket`, then `scoop install arturo` | ⚠️ Ensure you add the bucket first for proper installation.|
+| **Windows**       | [Scoop](https://github.com/arturo-lang/scoop-bucket) | 🟢    | 0.10.0   | `scoop bucket add arturo https://github.com/arturo-lang/scoop-bucket`, then `scoop install arturo` | ⚠️ Ensure you add the bucket first for proper installation.|
 | **Windows**       | winget                                               | 🟢    | 0.10.0   | `winget install arturo`                                                                            |                                                             |
 | **Docker**        | Docker Hub                                           | 🟢    | 0.10.0   | `docker run -it arturolang/arturo`                                                                 | "Default" version is the MINI build                         |
-| **MISE-en-place** | [Github](https://github.com/arturo-lang/mise-plugin) | 🟢    | 0.10.0   | `mise plugin install arturo https://github.com/arturo-lang/mise-plugin`, then `mise install arturo`| ⚠️ Ensure you add the plugin first for proper installation.|
+| **MISE-en-place** | [Mise](https://github.com/arturo-lang/mise-plugin)   | 🟢    | 0.10.0   | `mise plugin install arturo https://github.com/arturo-lang/mise-plugin`, then `mise install arturo`| ⚠️ Ensure you add the plugin first for proper installation.|
 
 ### Legend
 
