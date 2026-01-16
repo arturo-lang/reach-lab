@@ -35,7 +35,7 @@ Or... what tools/editors/package managers we do<br>(or could) support for **[Art
 | **OpenBSD**       | pkg_add                                             | 🔴    |          | —                                  |                                       |
 | **Windows**       | Chocolatey                                          | 🔴    |          | —                                  |                                       |
 | **Windows**       | Scoop                                               | 🔴    |          | —                                  |                                       |
-| **Windows**       | winget                                              | 🔴    |          | —                                  |                                       |
+| **Windows**       | winget                                              | 🟢    | 0.10.0   | `winget install arturo`            |                                       |
 | **Docker**        | Docker Hub                                          | 🟢    | 0.10.0   | `docker run -it arturolang/arturo` | "Default" version is the MINI build   |
 
 ### Legend
