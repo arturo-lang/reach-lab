@@ -17,8 +17,8 @@ Or... what tools/editors/package managers we do<br>(or could) support for **[Art
 
 ## 📦 Package Managers & Distribution
 
-| Platform          | Package Manager                                     | Status | Version | Install Command                   | Notes |
-|-------------------|-----------------------------------------------------|:------:|:-------:|-----------------------------------|-------|
+| Platform          | Package Manager                                     | Status | Version  | Install Command                   | Notes                                 |
+|-------------------|-----------------------------------------------------|:------:|:--------:|-----------------------------------|---------------------------------------|
 | **macOS**         | MacPorts                                            | 🔴    |          | —                                  |                                       |
 | **macOS/Linux**   | [Homebrew](https://formulae.brew.sh/formula/arturo) | 🟢    | 0.10.0   | `brew install arturo`              | ⚠️ forces mini version (should fix!) |
 | **Arch Linux**    | AUR                                                 | 🔴    |          | —                                  |                                       |
