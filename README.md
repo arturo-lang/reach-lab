@@ -36,7 +36,7 @@ Or... what tools/editors/package managers we do<br>(or could) support for **[Art
 | **Windows** | Chocolatey | 🔴 | — | |
 | **Windows** | Scoop | 🔴 | — | |
 | **Windows** | winget | 🔴 | — | |
-| **Docker** | — | 🟢 | `docker run -it arturolang/arturo` | "Default" version is the MINI build |
+| **Docker** | Docker Hub | 🟢 | `docker run -it arturolang/arturo` | "Default" version is the MINI build |
 
 ### Legend
 
