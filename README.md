@@ -17,26 +17,26 @@ Or... what tools/editors/package managers we do<br>(or could) support for **[Art
 
 ## 📦 Package Managers & Distribution
 
-| Platform | Package Manager | Status | Install Command | Notes |
-|---|---|:---:|---|---|
-| **macOS** | MacPorts | 🔴 | — | |
-| **macOS/Linux** | [Homebrew](https://formulae.brew.sh/formula/arturo) | 🟢 | `brew install arturo` | ⚠️ forces mini version (should fix!) |
-| **Arch Linux** | AUR | 🔴 | — | |
-| **Arch Linux** | pacman | 🔴 | — | |
-| **Debian/Ubuntu** | APT | 🔴 | — | |
-| **Fedora/RHEL** | DNF/YUM | 🔴 | — | |
-| **OpenSUSE** | Zypper | 🔴 | — | |
-| **Alpine** | APK | 🔴 | — | |
-| **Void Linux** | XBPS | 🔴 | — | |
-| **NixOS** | Nix | 🔴 | — | |
-| **Gentoo** | Portage | 🔴 | — | |
-| **FreeBSD** | pkg | 🔴 | — | |
-| **NetBSD** | pkgsrc | 🔴 | — | |
-| **OpenBSD** | pkg_add | 🔴 | — | |
-| **Windows** | Chocolatey | 🔴 | — | |
-| **Windows** | Scoop | 🔴 | — | |
-| **Windows** | winget | 🔴 | — | |
-| **Docker** | Docker Hub | 🟢 | `docker run -it arturolang/arturo` | "Default" version is the MINI build |
+| Platform          | Package Manager                                     | Status | Version  | Install Command                                                                                  | Notes                                                       |
+|-------------------|-----------------------------------------------------|:------:|:--------:|--------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
+| **macOS**         | MacPorts                                            | 🔴    |          | —                                                                                                 |                                                             |
+| **macOS/Linux**   | [Homebrew](https://formulae.brew.sh/formula/arturo) | 🟢    | 0.10.0   | `brew install arturo`                                                                             | ⚠️ forces mini version (should fix!)                       |
+| **Arch Linux**    | AUR                                                 | 🔴    |          | —                                                                                                 |                                                             |
+| **Arch Linux**    | pacman                                              | 🔴    |          | —                                                                                                 |                                                             |
+| **Debian/Ubuntu** | APT                                                 | 🔴    |          | —                                                                                                 |                                                             |
+| **Fedora/RHEL**   | DNF/YUM                                             | 🔴    |          | —                                                                                                 |                                                             |
+| **OpenSUSE**      | Zypper                                              | 🔴    |          | —                                                                                                 |                                                             |
+| **Alpine**        | APK                                                 | 🔴    |          | —                                                                                                 |                                                             |
+| **Void Linux**    | XBPS                                                | 🔴    |          | —                                                                                                 |                                                             |
+| **NixOS**         | Nix                                                 | 🔴    |          | —                                                                                                 |                                                             |
+| **Gentoo**        | Portage                                             | 🔴    |          | —                                                                                                 |                                                             |
+| **FreeBSD**       | pkg                                                 | 🔴    |          | —                                                                                                 |                                                             |
+| **NetBSD**        | pkgsrc                                              | 🔴    |          | —                                                                                                 |                                                             |
+| **OpenBSD**       | pkg_add                                             | 🔴    |          | —                                                                                                 |                                                             |
+| **Windows**       | Chocolatey                                          | 🔴    |          | —                                                                                                 |                                                             |
+| **Windows**       | Scoop                                               | 🟢    | 0.10.0   | `scoop bucket add arturo https://github.com/arturo-lang/scoop-bucket`, then `scoop install arturo`| ⚠️ Ensure you add the bucket first for proper installation.|
+| **Windows**       | winget                                              | 🟢    | 0.10.0   | `winget install arturo`                                                                           |                                                             |
+| **Docker**        | Docker Hub                                          | 🟢    | 0.10.0   | `docker run -it arturolang/arturo`                                                                | "Default" version is the MINI build                         |
 
 ### Legend
 
