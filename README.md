@@ -31,7 +31,7 @@ Or... what tools/editors/package managers we do<br>(or could) support for **[Art
 | **NixOS**         | Nix                                                       | 🔴    |          | —                                                                                                  |                                                             |
 | **Gentoo**        | Portage                                                   | 🔴    |          | —                                                                                                  |                                                             |
 | **Linux**         | [Snapcraft](https://snapcraft.io/arturo)                  | 🟢    | 0.10.0   | `sudo snap install arturo`                                                                         |                                                             |
-| **FreeBSD**       | pkg                                                       | 🔴    |          | —                                                                                                  |                                                             |
+| **FreeBSD**       | [pkg](https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=292632)   | 🟠    |          | —                                                                                                  |                                                             |
 | **NetBSD**        | pkgsrc                                                    | 🔴    |          | —                                                                                                  |                                                             |
 | **OpenBSD**       | pkg_add                                                   | 🔴    |          | —                                                                                                  |                                                             |
 | **Windows**       | Chocolatey                                                | 🔴    |          | —                                                                                                  |                                                             |
@@ -44,7 +44,7 @@ Or... what tools/editors/package managers we do<br>(or could) support for **[Art
 ### Legend
 
 - 🟢 Available
-- 🟠 Not updated
+- 🟠 Pending
 - 🔴 Not Available
 
 ## 💻 Editor / Syntax Highlighting
