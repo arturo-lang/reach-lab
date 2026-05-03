@@ -8,9 +8,10 @@ Or... what tools/editors/package managers we do<br>(or could) support for **[Art
 --------------
  
 <!--ts-->
-   * [Package Managers](#-package-managers)
-   * [Editors / Syntax Highlighting](#-editor--syntax-highlighting)
+   * [Package Managers & Distribution](#-package-managers--distribution)
+   * [Editor Support](#-editor-support)
    * [Code Counters](#-code-counters)
+   * [Syntax Highlighters](#-syntax-highlighters)
 <!--te-->
 
 --------------
@@ -47,7 +48,7 @@ Or... what tools/editors/package managers we do<br>(or could) support for **[Art
 - 🟠 Pending
 - 🔴 Not Available
 
-## 💻 Editor / Syntax Highlighting
+## 💻 Editor Support
 
 - [x] [**VSCode**](https://marketplace.visualstudio.com/items?itemName=drkameleon.arturo) - Windows / macOS / Linux
 - [x] [**SublimeText**](https://packagecontrol.io/packages/Arturo%20Programming%20Language) - Windows / macOS / Linux
@@ -58,6 +59,11 @@ Or... what tools/editors/package managers we do<br>(or could) support for **[Art
 - [x] [**cloc**](https://github.com/AlDanial/cloc/releases/tag/v2.02)
 - [x] [**scc**](https://github.com/boyter/scc/releases/tag/v3.3.0)
 - [x] [**tokei**](https://github.com/XAMPPRocky/tokei/releases/tag/v13.0.0-alpha.2)
+
+## 🎨 Syntax Highlighters
+
+- [x] [**Chroma**](https://github.com/alecthomas/chroma)
+- [x] [**Pygments**](https://pygments.org/languages/)
 
 ---------
 
